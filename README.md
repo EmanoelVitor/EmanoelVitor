@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Emanoel;I'm+18+years+old;I+from+Brazil,+CE;;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">  
 
