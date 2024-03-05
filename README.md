@@ -1,7 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />         
 
-<img align="right" width="250px" style="margin-top:-20px" src="octocat-1708467940188.png">
-
 <br>
 <br>
 
