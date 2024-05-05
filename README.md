@@ -4,7 +4,10 @@
 <br>
 
 <div display="inline-block">
-  <h1 align="left">Vitor Emanoel</h1>  
+  
+  ### Olá,eu sou o Vitor! :v:
+
+  <p>:point_down:Conecte comigo no Linkedin:point_down:</p>
   <a href="https://www.linkedin.com/in/vitor-emanoel/">
     <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align:top;">
   </a>   
@@ -14,12 +17,6 @@
 </br>
 </br>
 
-## Hello, Devs </>
-
-Sou técnico em informática, e atualmente estou cursando Ciência da Computação. Gosto muito de estudar programação, e isso me dar motivos para consquitar o sucesso!
-
-<br>
-<br>
 <div display="inline-block">  
   
 ### 🖥️ Tecnologias e Ferramentas: 
