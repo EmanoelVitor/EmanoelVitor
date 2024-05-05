@@ -1,8 +1,4 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />         
-
-<br>
-<br>
-
 <div display="inline-block">
   
   ### Olá,eu sou o Vitor! :v:
